@@ -12,6 +12,7 @@ export const Container = styled.div`
 
   section {
     max-width: 600px;
+   
     > span {
       font-size: 1.5rem;
       font-weight: bold;
@@ -32,6 +33,7 @@ export const Container = styled.div`
       font-size: 1.5rem;
       line-height: 2.25rem;
       margin-top: 1.5rem;
+      margin-bottom: 2.5rem;
 
       span {
         color: var(--cyan-500);
